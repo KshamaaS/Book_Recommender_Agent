@@ -1,18 +1,7 @@
----
-title: Book Recommendation Agent
-emoji: 📚
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.19.2
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
 # 📚 Enhanced Book Recommendation Agent
 
 An AI-powered book recommendation system that combines machine learning, sentiment analysis, and semantic search to help you discover your next great read.
+HuggingFace Repository with the UI: https://huggingface.co/spaces/kshamaasuresh/book-recommendation-agent
 
 ## 🌟 Features
 
